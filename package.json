@@ -1,7 +1,7 @@
 {
 	"name": "n8n-nodes-mongo-key-value-store",
-	"version": "0.1.0",
-	"description": "",
+	"version": "1.0.0",
+	"description": "A node for n8n to interact with MongoDB Key Value Store",
 	"keywords": [
 		"n8n-community-node-package"
 	],
